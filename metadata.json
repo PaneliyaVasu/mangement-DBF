@@ -1,0 +1,6 @@
+{
+  "name": "Surat Center Management Platform",
+  "description": "Comprehensive spiritual and community center management platform for Surat Center, Gujarat, managing events, schedules, teams, mahatmas, expenses, attendance, and reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
